@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/derpmagician/testting/master/profile-summary-card-output/codeSTACKr/4-productive-time.svg)
+```
+
+    
